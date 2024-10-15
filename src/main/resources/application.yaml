@@ -1,0 +1,8 @@
+bot:
+  name: WeatherInTheBot
+  token: 7319822740:AAGt0PHCsMYaTPNiq2nArhzA7cTrwZ3J14E
+weather:
+  apiKey: c1c7cb3d1b610395880d3eace434f76d
+  url: http://api.openweathermap.org/data/2.5/weather
+server:
+  port: 8088
